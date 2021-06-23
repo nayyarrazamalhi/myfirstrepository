@@ -6,3 +6,5 @@ Continuous integration (CI) is the practice of automating the integration of cod
 Reduced IT costs, Scalability, Business continuity, Collaboration efficiency, Flexibility of work practices, Access to automatic updates.
 
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+Modified, Staged, Commit
