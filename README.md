@@ -8,3 +8,7 @@ Reduced IT costs, Scalability, Business continuity, Collaboration efficiency, Fl
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
 Modified, Staged, Commit
+
+soft: only changes HEAD, but doesn't change staged files in index or working files.
+mixed: moves HEAD and updates the index with the contents of the revision to which HEAD now points.
+hard: moves HEAD and updates the index and working directory—this is the only version of reset that can cause data loss.
